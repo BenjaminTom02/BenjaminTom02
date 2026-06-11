@@ -1,6 +1,6 @@
 ## About Me 👋
 - Ayo wassup cuzzz, I am **Tien Hung** and you can call me **Benjamin** in English. Currently, I am a sophomore at VNUDN - University of Science and Technology, majoring in Electronics Communication and Engineering (Advanced Programn) in FAST Faculty
 ## My passion 🔥
-- I am interested in **Design Verification** in IC Design chip; I am current dive into Verilog/SystemVerilog/UVM, Digital Signal Processing, Linux. I kinda like self-studying, competitive programming, and running. I am a runner yah.
+- I am interested in **Design Verification** in IC Design chip; I am current dive into Verilog/SystemVerilog/UVM, Digital Signal Processing, Linux. I kinda like self-studying, competitive programming, and running. I am a runner for yahh.
 ## Activites ⌛
 - ...somehow but
